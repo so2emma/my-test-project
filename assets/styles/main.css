@@ -1,0 +1,30 @@
+div.blue,
+.red {
+    font-size: 45px;
+}
+h1 {
+  font-size: 78px;
+  color: purple;
+}
+
+img {
+}
+
+img[alt="vsCode"] {
+  /* width: 75vw; */
+  height: 200px;
+}
+
+.bg-primary {
+  background-color: aqua;
+}
+.bg-secondary {
+  background-color: brown;
+}
+
+.blue {
+  color: blue;
+}
+.red {
+  color: red;
+}
